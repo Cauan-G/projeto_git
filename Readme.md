@@ -1,0 +1,1 @@
+Olá, este projeto é um aprendizado de Git.
